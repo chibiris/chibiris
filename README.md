@@ -1,8 +1,10 @@
 # ChibiriS「チビリス」
 > Lovable charming chibi that makes you smile. 
->「思わず笑顔になってしまう愛らしいチャーミングなちび。」
 
-Enjoy your favorite music artists, movie/tv show characters and pop culture personalities in mini childlike figure.
+> Enjoy your favorite music artists, movie/tv show characters and pop culture personalities in mini childlike figure.
+
+Support me on [Patreon](https://patreon.com/chibiris) or [Locals](https://chibiris.locals.com/) or [Paypal]() 💙
+
 
 ![ChibiriS](https://pbs.twimg.com/media/Fef5dLCaAAAItKF?format=jpg&name=large)
 
@@ -28,7 +30,9 @@ C
  Locals [ChibiriS](https://chibiris.locals.com/),
  Discord [ChibiriS](https://discord.gg/Aq3Xcr5Vwr)
 
+
 <!--
+
 **chibiris/chibiris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -43,4 +47,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 update readme.md
+「思わず笑顔になってしまう愛らしいチャーミングなちび。」
+
 -->
