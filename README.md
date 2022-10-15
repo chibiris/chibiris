@@ -6,8 +6,8 @@ Enjoy your favorite music artists, movie/tv show characters and pop culture pers
 
 Support me on [Patreon](https://patreon.com/chibiris) &mdash; [Locals](https://chibiris.locals.com/) &mdash; [Paypal]().
 
-
 ![ChibiriS](https://pbs.twimg.com/media/Fef5dLCaAAAItKF?format=jpg&name=large)
+
 
 ## Welcome to ChibiriS
 
@@ -19,9 +19,10 @@ If you love cute little chibi, please don't forget to like, comment, share, and 
 
 I genuinely appreciate all of your support and I'm looking forwards to share my work with you.
 
-Have a wonderfulday, much love and bye,
+Have a wonderfulday, love you,
 
 ChibiriS
+
 
 ## Social media
 
