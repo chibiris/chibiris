@@ -6,8 +6,10 @@ Enjoy your favorite music artists, movie/tv show characters and pop culture pers
 
 Support me on [Patreon](https://patreon.com/chibiris) &ndash; [Locals](https://chibiris.locals.com/) &ndash; [Paypal]().
 
+![ChibiriS](https://pbs.twimg.com/media/FfFBEkNaAAACXz0?format=png&name=small)
+<!--
 ![ChibiriS](https://pbs.twimg.com/media/Fef5dLCaAAAItKF?format=jpg&name=large)
-
+-->
 
 ## Welcome to ChibiriS
 
