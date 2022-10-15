@@ -1,5 +1,6 @@
 # ChibiriS「チビリス」
->「思わず笑顔になってしまう愛らしいチャーミングなちび。」Lovable charming chibi that makes you smile. 
+> Lovable charming chibi that makes you smile. 
+>「思わず笑顔になってしまう愛らしいチャーミングなちび。」
 
 Enjoy your favorite music artists, movie/tv show characters and pop culture personalities in mini childlike figure.
 
@@ -40,4 +41,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+update readme.md
 -->
