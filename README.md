@@ -6,9 +6,10 @@ Enjoy your favorite music artists, movie/tv show characters and pop culture pers
 
 Support me on [Patreon](https://patreon.com/chibiris) &ndash; [Locals](https://chibiris.locals.com/) &ndash; [Paypal]().
 
-![ChibiriS](https://pbs.twimg.com/media/FfFBEkNaAAACXz0?format=png&name=small)
+![ChibiriS](https://pbs.twimg.com/media/FfFB-woaEAAAuTk?format=png&name=small)
 <!--
 ![ChibiriS](https://pbs.twimg.com/media/Fef5dLCaAAAItKF?format=jpg&name=large)
+![ChibiriS](https://pbs.twimg.com/media/FfFBEkNaAAACXz0?format=png&name=small)
 -->
 
 ## Welcome to ChibiriS
@@ -49,6 +50,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 update readme.md
+
 Lovable charming chibi that makes you smile.「思わず笑顔になってしまう愛らしいチャーミングなちび。」
 Welcome to ChibiriS「チビリス へようこそ。」
 Social media「ソーシャルメディア」
