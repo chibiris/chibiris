@@ -4,26 +4,26 @@ Lovable charming chibi that makes you smile.
 
 Enjoy your favorite music artists, movie/tv show characters and pop culture personalities in mini childlike figure.
 
-Support me on [Patreon](https://patreon.com/chibiris) or [Locals](https://chibiris.locals.com/) or [Paypal]().
+Support me on [Patreon](https://patreon.com/chibiris) &mdash; [Locals](https://chibiris.locals.com/) &mdash; [Paypal]().
 
 
 ![ChibiriS](https://pbs.twimg.com/media/Fef5dLCaAAAItKF?format=jpg&name=large)
 
-## Welcome to ChibiriS「チビリス へようこそ。」
+## Welcome to ChibiriS
 
 Hi everyone, thanks for visiting my GitHub.
 
-I create lovable charming chibi characters that makes you smile by exclusive requests from my patrons on Patreon or on direct commission.
+Here you will find lovable charming chibi characters that makes you smile and immerse yourself into the **Chibiverse** and enjoy unique aesthetics and adorable personalities of each chibi character. I personally created all chibis either by exclusive requests from my patrons or by direct commission.
 
-If you love cute little chibi characters, you can now immerse yourself into **Chibishire** (chibi town) and enjoy unique aesthetics and adorable personalities of each chibi character. And please don't forget to like, leave a  comment, share, and follow me to receive all interesting future updates.
+If you love cute little chibi, please don't forget to like, comment, share, and subscribe or follow ChibiriS to receive all interesting future updates.
 
-I love you and I genuinely appreciate all of your support. I'm looking forwards to talk to you.
+I genuinely appreciate all of your support and I'm looking forwards to share my work with you.
 
-Much love and bye,
+Have a wonderfulday, much love and bye,
 
-C
+ChibiriS
 
-## Social media「ソーシャルメディア」
+## Social media
 
  Patreon [ChibiriS](https://patreon.com/chibiris),
  Twitter [@chibiris808](https://twitter.com/chibiris808),
@@ -48,6 +48,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 update readme.md
-「思わず笑顔になってしまう愛らしいチャーミングなちび。」
+Lovable charming chibi that makes you smile.「思わず笑顔になってしまう愛らしいチャーミングなちび。」
+Welcome to ChibiriS「チビリス へようこそ。」
+Social media「ソーシャルメディア」
 
 -->
