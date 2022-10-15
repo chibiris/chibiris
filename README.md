@@ -4,32 +4,30 @@ Lovable charming chibi that makes you smile.
 
 Enjoy your favorite music artists, movie/tv show characters and pop culture personalities in mini childlike figure.
 
-Support me on [Patreon](https://patreon.com/chibiris) &mdash; [Locals](https://chibiris.locals.com/) &mdash; [Paypal]().
+Support me on [Patreon](https://patreon.com/chibiris) &ndash; [Locals](https://chibiris.locals.com/) &ndash; [Paypal]().
 
 ![ChibiriS](https://pbs.twimg.com/media/Fef5dLCaAAAItKF?format=jpg&name=large)
 
 
 ## Welcome to ChibiriS
 
-Hi everyone, thanks for visiting my GitHub.
+Hi everyone, thanks for visiting my GitHub. I'm Liseu リセウ (Ailiseu アイリセウ).
 
-Here you will find lovable charming chibi characters that makes you smile and immerse yourself into the **Chibiverse** and enjoy unique aesthetics and adorable personalities of each chibi character. I personally created all chibis either by exclusive requests from my patrons or by direct commission.
+Here you will find lovable charming chibi characters that makes you smile. Immerse yourself into my captivating **Chibiverse** and enjoy the unique aesthetics and irresitibly adorable personalities of each chibi character. I personally created all chibis either by exclusive requests from my patrons on [Patreon](https://patreon.com/chibiris) or by paid commission.
 
-If you love cute little chibi, please don't forget to like, comment, share, and subscribe or follow ChibiriS to receive all interesting future updates.
+If you love cute little chibis, don't forget to like, comment, share, and subscribe or follow ChibiriS to receive all interesting future communications and updates.
 
-I genuinely appreciate all of your support and I'm looking forwards to share my work with you.
+I truly appreciate all of your support and I'm always excited to share my work with you every week.
 
-Have a wonderfulday, love you,
-
-ChibiriS
+Have a wonderful day, I love you.
 
 
 ## Social media
 
- Patreon [ChibiriS](https://patreon.com/chibiris),
- Twitter [@chibiris808](https://twitter.com/chibiris808),
- Instagram [@ristwns](https://www.instagram.com/chibiris808/), 
- Locals [ChibiriS](https://chibiris.locals.com/),
+ Patreon [ChibiriS](https://patreon.com/chibiris) &ndash;
+  Locals [ChibiriS](https://chibiris.locals.com/) &ndash;
+ Twitter [@chibiris808](https://twitter.com/chibiris808) &ndash;
+ Instagram [@chibiris808](https://www.instagram.com/chibiris808/) &ndash;
  Discord [ChibiriS](https://discord.gg/Aq3Xcr5Vwr)
 
 
