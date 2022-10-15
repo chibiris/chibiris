@@ -1,9 +1,10 @@
 # ChibiriS「チビリス」
-> Lovable charming chibi that makes you smile. 
 
-> Enjoy your favorite music artists, movie/tv show characters and pop culture personalities in mini childlike figure.
+Lovable charming chibi that makes you smile. 
 
-Support me on [Patreon](https://patreon.com/chibiris) or [Locals](https://chibiris.locals.com/) or [Paypal]() 💙
+Enjoy your favorite music artists, movie/tv show characters and pop culture personalities in mini childlike figure.
+
+Support me on [Patreon](https://patreon.com/chibiris) or [Locals](https://chibiris.locals.com/) or [Paypal]().
 
 
 ![ChibiriS](https://pbs.twimg.com/media/Fef5dLCaAAAItKF?format=jpg&name=large)
